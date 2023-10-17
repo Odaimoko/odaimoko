@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Make life and thinking fast, effective, and entertaining.
 
 Open source projects:
-- [Tag Project]([url](https://github.com/Odaimoko/tag-project)), Manage your projects with Tags in Obsidian.
+- [Tag Project](https://github.com/Odaimoko/tag-project), Manage your projects with Tags in Obsidian.
 
 Games:
-- [The Ninth Day]([url](https://store.steampowered.com/app/491420/the_9th_day/))
+- [The Ninth Day](https://store.steampowered.com/app/491420/the_9th_day/)
 - [Memory Oblivion Box]( https://store.steampowered.com/app/473460/Memory_Oblivion_Box)
 - [Noctuary](https://store.steampowered.com/app/2143680/Noctuary/)
