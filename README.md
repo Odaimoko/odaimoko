@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Freelance Software developer</h1>
 
 <!--
 **Odaimoko/odaimoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/odaimoko?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&leetcode=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&leetcode=false&leetcode.user=odaimoko&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FShanghai)
+Make life and thinking fast, effective, and entertaining.
+
+Open source projects:
+- [Tag Project]([url](https://github.com/Odaimoko/tag-project)), Manage your projects with Tags in Obsidian.
+
+Games:
+- [The Ninth Day]([url](https://store.steampowered.com/app/491420/the_9th_day/))
+- [Memory Oblivion Box]( https://store.steampowered.com/app/473460/Memory_Oblivion_Box)
+- [Noctuary](https://store.steampowered.com/app/2143680/Noctuary/)
