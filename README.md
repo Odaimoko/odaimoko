@@ -24,3 +24,6 @@ Games:
 - [The Ninth Day](https://store.steampowered.com/app/491420/the_9th_day/)
 - [Memory Oblivion Box]( https://store.steampowered.com/app/473460/Memory_Oblivion_Box)
 - [Noctuary](https://store.steampowered.com/app/2143680/Noctuary/)
+
+Learning materials
+- [ACE Personal Trainer Notes](https://github.com/Odaimoko/ACE-CPT-Notes)
