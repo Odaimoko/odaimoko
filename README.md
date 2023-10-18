@@ -30,3 +30,7 @@ Games:
 
 Learning materials
 - [ACE Personal Trainer Notes](https://github.com/Odaimoko/ACE-CPT-Notes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaimoko&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=odaimoko&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
