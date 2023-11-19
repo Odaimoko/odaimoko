@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Make life and thinking fast, effective, and entertaining.
 
-Personal Website (Chinese): [Imk & Cc](imoko.cc)
+Personal Website (Chinese): [Imk & Cc](https://imoko.cc)
 
 [![Twitter/X](https://img.shields.io/badge/TianFF14-white?logo=twitter)](https://twitter.com/TianFF14)
 [![Buy me a coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-white?logo=kofi)](https://ko-fi.com/odaimoko)
