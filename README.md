@@ -27,6 +27,9 @@ Personal Website:
 Open source projects:
 - [Tag Project](https://github.com/Odaimoko/tag-project), Manage your projects with Tags in Obsidian.
 
+Game Tools
+- [The Healer](https://imoko.cc/healer), The professional FFXiv healing analysis.
+
 Games:
 - [The Ninth Day](https://store.steampowered.com/app/491420/the_9th_day/)
 - [Memory Oblivion Box]( https://store.steampowered.com/app/473460/Memory_Oblivion_Box)
