@@ -38,3 +38,4 @@ Games:
 Learning materials
 - [ACE Personal Trainer Notes](https://github.com/Odaimoko/ACE-CPT-Notes)
 - [量子力学笔记](https://imoko.cc/blog/imk/量子计算/Quantum-Computing)
+- [Addressables Hotfix Tutorial](https://github.com/Odaimoko/Addressables-Hotfix-Tutorial)
